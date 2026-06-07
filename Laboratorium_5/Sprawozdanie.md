@@ -1,11 +1,3 @@
-# Sprawozdanie z Laboratorium nr 5 - Sztuczna Inteligencja
-
-**Temat:** Rekurencyjne Sieci Neuronowe (RNN) z bramkami LSTM i GRU na przykładzie regresji do predykcji cen akcji.  
-**Autor:** Maja Porzycka (Indeks: 21296)  
-**Prowadzący:** dr inż. Jacek Paluszak  
-**Uczelnia:** Akademia Nauk Stosowanych w Elblągu
-
----
 
 ## 1. Porównanie wyników bazowych
 Analiza skuteczności domyślnych architektur w przewidywaniu atrybutu `High`:
